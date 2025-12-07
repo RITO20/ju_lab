@@ -1,0 +1,5 @@
+through this connand created the .tex file
+~ ❯ jupyter nbconvert --to latex LAB_B-2/lab_2-2.ipynb
+
+Ran the connand inside the directory to get the PDF
+xelatex lab_2-2.tex
