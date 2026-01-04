@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2026/dev/Arch Linux) (preloaded format=xelatex 2025.12.7)  14 DEC 2025 21:08
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2026/dev/Arch Linux) (preloaded format=xelatex 2025.12.7)  4 JAN 2026 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -888,8 +888,7 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \Wrappedvisiblespacebox=\box98
 Package hyperref Info: Option `breaklinks' set `true' on input line 402.
 Package hyperref Info: Option `colorlinks' set `true' on input line 402.
-
-No file lab_2-8.aux.
+ (./lab_2-8.aux)
 \openout1 = `lab_2-8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 409.
@@ -916,6 +915,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
+
 (/usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
@@ -1136,11 +1136,9 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
 t line 409.
 Package hyperref Info: Link coloring ON on input line 409.
+(./lab_2-8.out) (./lab_2-8.out)
 \@outlinefile=\write5
 \openout5 = `lab_2-8.out'.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 12.00128pt on input line 411.
@@ -1156,6 +1154,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 411.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 411
 .
+
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -1181,48 +1180,95 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 423.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 432.
+(Font)              scaled to size 10.95116pt on input line 457.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 432.
+(Font)              scaled to size 7.6658pt on input line 457.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 432.
+(Font)              scaled to size 5.47559pt on input line 457.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 432.
+(Font)              scaled to size 10.94882pt on input line 457.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 432.
+(Font)              scaled to size 7.66417pt on input line 457.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 432.
+(Font)              scaled to size 5.47441pt on input line 457.
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.475> not available
-(Font)              size <5> substituted on input line 432.
+(Font)              size <5> substituted on input line 457.
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 441--447
+Underfull \hbox (badness 1400) in paragraph at lines 467--473
 \TU/lmr/m/n/10.95 differences between their corresponding coordinates across al
 l n dimensions. For points
  []
 
-File: lab_2-8_files/image.png Graphic file (type bmp)
-<lab_2-8_files/image.png>
 
 
 [1
 
 ]
+File: lab_2-8_files/image.png Graphic file (type bmp)
+<lab_2-8_files/image.png>
+File: lab_2-8_files/image.png Graphic file (type bmp)
+<lab_2-8_files/image.png>
+
 
 [2]
-File: lab_2-8_files/lab_2-8_17_0.png Graphic file (type bmp)
-<lab_2-8_files/lab_2-8_17_0.png>
+Missing character: There is no ▴ (U+25B4) in font [latinmodern-math.otf]/OT:scr
+ipt=math;language=dflt;!
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 556--557
+File: lab_2-8_files/image.png Graphic file (type bmp)
+<lab_2-8_files/image.png>
+
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+File: lab_2-8_files/lab_2-8_98_0.png Graphic file (type bmp)
+<lab_2-8_files/lab_2-8_98_0.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1266--1267
+
+ []
+
+File: lab_2-8_files/lab_2-8_98_1.png Graphic file (type bmp)
+<lab_2-8_files/lab_2-8_98_1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
+
+ []
+
+File: lab_2-8_files/lab_2-8_98_2.png Graphic file (type bmp)
+<lab_2-8_files/lab_2-8_98_2.png>
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1277
 
  []
 
 
 
-[4] (./lab_2-8.aux)
+[16] (./lab_2-8.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1232,22 +1278,16 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.475pt have occurred.
 
-
-Package rerunfilecheck Warning: File `lab_2-8.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `lab_2-8.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `lab_2-8.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 33145 strings out of 475848
- 655358 string characters out of 5776013
- 1190476 words of memory out of 5000000
- 55549 multiletter control sequences out of 15000+600000
+ 33208 strings out of 475848
+ 656908 string characters out of 5776013
+ 1265480 words of memory out of 5000000
+ 55604 multiletter control sequences out of 15000+600000
  567135 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 116i,7n,121p,551b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 116i,8n,121p,507b,751s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on lab_2-8.pdf (4 pages).
+Output written on lab_2-8.pdf (16 pages).
