@@ -10,6 +10,7 @@ __pycache__/
 # Virtual Environments
 ############################
 pyvenv_3_11/
+.vevn/
 # venv/
 # .env/
 
